@@ -1,0 +1,10 @@
+streamlit
+keras
+keras-tuner
+tensorflow
+torch
+pandas
+numpy
+plotly
+matplotlib
+scikit-learn
